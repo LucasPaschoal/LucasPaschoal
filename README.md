@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Lucas Ferreira</h1>
+<h1 align="left">Hi, I'm Lucas Ferreira 😄</h1>
 
 <p align="left">
   Information Systems student passionate about technology, with a strong focus on Web Development.
@@ -6,7 +6,7 @@
   I have professional experience building web pages and developing automations that optimize daily workflows.
   <br>
   Always seeking new challenges, continuous learning, and opportunities to grow as a developer while contributing to innovative teams.
-  😄
+  
 </p>
 
 

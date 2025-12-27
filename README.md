@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Lucas Ferreira 😄</h1>
+<h1 align="left">Hi, I'm Lucas Ferreira</h1>
 
 <p align="left">
   Information Systems student passionate about technology, with a strong focus on Web Development.

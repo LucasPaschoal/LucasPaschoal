@@ -26,12 +26,12 @@
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,ruby,dart,python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,ruby,python,java&theme=dark" />
 </p>
 
 ### Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,flutter,spring,rails&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,spring,rails&theme=dark" />
 </p>
 
 ### Others

@@ -6,9 +6,7 @@
   I have professional experience building web pages and developing automations that optimize daily workflows.
   <br>
   Always seeking new challenges, continuous learning, and opportunities to grow as a developer while contributing to innovative teams.
-  
 </p>
-
 
 ## Connect with me
 
@@ -21,17 +19,16 @@
 </p>
 
 
-
 ## Tech Stack
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,ruby,python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,ruby,dart,python,java&theme=dark" />
 </p>
 
 ### Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,spring,rails&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,flutter,spring,rails&theme=dark" />
 </p>
 
 ### Others
@@ -39,11 +36,3 @@
   <img src="https://skillicons.dev/icons?i=git,linux,docker,webpack,jest,mongodb,postgres,mysql&theme=dark" />
 </p>
 
-
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPaschoal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPaschoal&layout=compact&langs_count=7&theme=dracula"/>
-</p>
